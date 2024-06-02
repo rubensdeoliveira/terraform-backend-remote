@@ -1,0 +1,7 @@
+region = ""
+
+bucket_name_staging       = ""
+bucket_project_id_staging = ""
+
+bucket_name_prd       = ""
+bucket_project_id_prd = ""
